@@ -1,0 +1,17 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Recursive', monospace;
+  font-style:  normal;
+  font-weight: 400;
+  src: url("https://fonts.googleapis.com/css2?family=Recursive") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Recursive', monospace;
+  font-style:  normal;
+  font-weight: 800;
+  src: url("../fonts/RecursiveMonoCslSt-Bold.woff2") format("woff");
+  font-display: swap;
+}

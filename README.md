@@ -11,4 +11,4 @@ git clone https://github.com/the-outcaster/linuxgamingcentral.git
 cd linuxgamingcentral
 ```
 
-`hugo server` will run the server locally on your system. `hugo` will build the site inside the `publish` folder.
+`hugo server` will run the server locally on your system. `hugo` will build the site inside the `public` folder.
